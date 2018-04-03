@@ -1,4 +1,4 @@
 <?php echo "yukaokada";
-add add
+minus minus
 
  ?>
