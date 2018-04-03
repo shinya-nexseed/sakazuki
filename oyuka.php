@@ -1,6 +1,5 @@
-<?php echo "yukaokada";
+<?php
+    echo "yukaokada";
+    add add;
+?>
 
-minus minus
-add add add;
-
- ?>
